@@ -1,0 +1,36 @@
+<svg width="900" height="1600" viewBox="0 0 900 1600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1600" fill="#f6fcff"/>
+  <rect x="0" y="0" width="900" height="120" fill="#0ea5b8"/>
+  <text x="44" y="74" fill="#ffffff" font-size="42" font-family="Arial, sans-serif" font-weight="700">Foundry Market</text>
+  <rect x="44" y="146" width="812" height="70" rx="35" fill="#ffffff"/>
+  <text x="88" y="190" fill="#6a98a3" font-size="24" font-family="Arial, sans-serif">Search templates, apps, systems</text>
+
+  <rect x="44" y="250" width="388" height="320" rx="20" fill="#ffffff" stroke="#d7eef3"/>
+  <rect x="468" y="250" width="388" height="320" rx="20" fill="#ffffff" stroke="#d7eef3"/>
+  <rect x="44" y="606" width="388" height="320" rx="20" fill="#ffffff" stroke="#d7eef3"/>
+  <rect x="468" y="606" width="388" height="320" rx="20" fill="#ffffff" stroke="#d7eef3"/>
+
+  <text x="78" y="312" fill="#0b6b7e" font-size="26" font-family="Arial, sans-serif" font-weight="700">SaaS Metrics Kit</text>
+  <text x="78" y="348" fill="#5e8c98" font-size="22" font-family="Arial, sans-serif">Dashboard + alerts</text>
+  <text x="78" y="406" fill="#0a8ca3" font-size="40" font-family="Arial, sans-serif" font-weight="700">$79</text>
+  <rect x="78" y="438" width="136" height="46" rx="23" fill="#0ea5b8"/>
+  <text x="120" y="468" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="700">Buy</text>
+
+  <text x="502" y="312" fill="#0b6b7e" font-size="26" font-family="Arial, sans-serif" font-weight="700">Onboarding Flow</text>
+  <text x="502" y="348" fill="#5e8c98" font-size="22" font-family="Arial, sans-serif">Mobile optimized</text>
+  <text x="502" y="406" fill="#0a8ca3" font-size="40" font-family="Arial, sans-serif" font-weight="700">$49</text>
+  <rect x="502" y="438" width="136" height="46" rx="23" fill="#0ea5b8"/>
+  <text x="544" y="468" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="700">Buy</text>
+
+  <text x="78" y="668" fill="#0b6b7e" font-size="26" font-family="Arial, sans-serif" font-weight="700">CRM Starter</text>
+  <text x="78" y="704" fill="#5e8c98" font-size="22" font-family="Arial, sans-serif">Lead pipeline</text>
+  <text x="78" y="762" fill="#0a8ca3" font-size="40" font-family="Arial, sans-serif" font-weight="700">$119</text>
+  <rect x="78" y="794" width="136" height="46" rx="23" fill="#0ea5b8"/>
+  <text x="120" y="824" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="700">Buy</text>
+
+  <text x="502" y="668" fill="#0b6b7e" font-size="26" font-family="Arial, sans-serif" font-weight="700">Investor CRM</text>
+  <text x="502" y="704" fill="#5e8c98" font-size="22" font-family="Arial, sans-serif">Fundraising tracker</text>
+  <text x="502" y="762" fill="#0a8ca3" font-size="40" font-family="Arial, sans-serif" font-weight="700">$99</text>
+  <rect x="502" y="794" width="136" height="46" rx="23" fill="#0ea5b8"/>
+  <text x="544" y="824" fill="#ffffff" font-size="20" font-family="Arial, sans-serif" font-weight="700">Buy</text>
+</svg>

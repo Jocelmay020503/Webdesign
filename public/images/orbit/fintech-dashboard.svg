@@ -1,0 +1,46 @@
+<svg width="1280" height="800" viewBox="0 0 1280 800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="800" fill="#f8fdff"/>
+  <rect x="0" y="0" width="1280" height="70" fill="#ffffff"/>
+  <text x="40" y="44" fill="#0b6b7e" font-size="30" font-family="Arial, sans-serif" font-weight="700">FinOrbit</text>
+  <rect x="1020" y="18" width="220" height="34" rx="17" fill="#edf9fc"/>
+  <text x="1088" y="40" fill="#0c7e90" font-size="14" font-family="Arial, sans-serif">Business Account</text>
+
+  <rect x="32" y="90" width="250" height="678" rx="16" fill="#ffffff" stroke="#d5eef3"/>
+  <rect x="50" y="132" width="214" height="42" rx="10" fill="#0ea5b8"/>
+  <text x="82" y="159" fill="#ffffff" font-size="16" font-family="Arial, sans-serif" font-weight="700">Overview</text>
+  <rect x="50" y="186" width="214" height="36" rx="10" fill="#eef9fc"/>
+  <rect x="50" y="232" width="214" height="36" rx="10" fill="#eef9fc"/>
+  <rect x="50" y="278" width="214" height="36" rx="10" fill="#eef9fc"/>
+
+  <rect x="302" y="90" width="946" height="206" rx="16" fill="#ffffff" stroke="#d5eef3"/>
+  <text x="336" y="130" fill="#0b6b7e" font-size="22" font-family="Arial, sans-serif" font-weight="700">Cash Position</text>
+  <rect x="336" y="152" width="286" height="120" rx="12" fill="#eef9fc"/>
+  <text x="360" y="194" fill="#0c7e90" font-size="16" font-family="Arial, sans-serif">Available</text>
+  <text x="360" y="242" fill="#0a8ca3" font-size="42" font-family="Arial, sans-serif" font-weight="700">$2.84M</text>
+  <rect x="638" y="152" width="286" height="120" rx="12" fill="#eef9fc"/>
+  <text x="662" y="194" fill="#0c7e90" font-size="16" font-family="Arial, sans-serif">Incoming</text>
+  <text x="662" y="242" fill="#0a8ca3" font-size="42" font-family="Arial, sans-serif" font-weight="700">$430K</text>
+  <rect x="940" y="152" width="276" height="120" rx="12" fill="#eef9fc"/>
+  <text x="964" y="194" fill="#0c7e90" font-size="16" font-family="Arial, sans-serif">Outgoing</text>
+  <text x="964" y="242" fill="#0a8ca3" font-size="42" font-family="Arial, sans-serif" font-weight="700">$298K</text>
+
+  <rect x="302" y="316" width="610" height="452" rx="16" fill="#ffffff" stroke="#d5eef3"/>
+  <text x="336" y="356" fill="#0b6b7e" font-size="22" font-family="Arial, sans-serif" font-weight="700">Payments Flow</text>
+  <polyline points="340,690 410,664 480,642 550,598 620,580 690,530 760,500 830,470 890,434" fill="none" stroke="#0ea5b8" stroke-width="8" stroke-linecap="round"/>
+  <polyline points="340,690 410,664 480,642 550,598 620,580 690,530 760,500 830,470 890,434 890,746 340,746" fill="#0ea5b8" opacity="0.14"/>
+  <line x1="340" y1="734" x2="890" y2="734" stroke="#d9f0f4" stroke-width="2"/>
+  <line x1="340" y1="654" x2="890" y2="654" stroke="#d9f0f4" stroke-width="2"/>
+  <line x1="340" y1="574" x2="890" y2="574" stroke="#d9f0f4" stroke-width="2"/>
+
+  <rect x="932" y="316" width="316" height="452" rx="16" fill="#ffffff" stroke="#d5eef3"/>
+  <text x="966" y="356" fill="#0b6b7e" font-size="22" font-family="Arial, sans-serif" font-weight="700">Transfers</text>
+  <rect x="960" y="378" width="260" height="84" rx="12" fill="#eef9fc"/>
+  <text x="986" y="418" fill="#0c7e90" font-size="16" font-family="Arial, sans-serif">Vendor payout</text>
+  <text x="1118" y="418" fill="#ef4444" font-size="16" font-family="Arial, sans-serif" font-weight="700">-$18,200</text>
+  <rect x="960" y="474" width="260" height="84" rx="12" fill="#eef9fc"/>
+  <text x="986" y="514" fill="#0c7e90" font-size="16" font-family="Arial, sans-serif">Settlement</text>
+  <text x="1118" y="514" fill="#14b8a6" font-size="16" font-family="Arial, sans-serif" font-weight="700">+$56,000</text>
+  <rect x="960" y="570" width="260" height="84" rx="12" fill="#eef9fc"/>
+  <text x="986" y="610" fill="#0c7e90" font-size="16" font-family="Arial, sans-serif">Payroll</text>
+  <text x="1118" y="610" fill="#ef4444" font-size="16" font-family="Arial, sans-serif" font-weight="700">-$92,300</text>
+</svg>
