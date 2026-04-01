@@ -2,7 +2,7 @@
 const nextConfig = {
   transpilePackages: ['three'],
   turbopack: {
-    root: 'C:\\Users\\User\\OJT\\Design',
+    root: process.cwd(),
     resolveAlias: {
       canvas: 'empty',
     },
